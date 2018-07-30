@@ -1,0 +1,11 @@
+#base=simple:/home/TianXu/Development/lago/lago-images/ol7.5.qcow2
+#format=qcow2
+#name=ol7.5-base
+#osinfo=oraclelinux7.5
+#distro=el7
+#arch=x86_64
+#expand=/dev/sda3
+#root-partition=/dev/sda3
+#version=5
+root-password password:123456
+#install qemu-guest-agent
