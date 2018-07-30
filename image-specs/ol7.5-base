@@ -1,4 +1,4 @@
-#base=simple:/home/TianXu/Development/lago/lago-images/ol7.5.qcow2
+#base=simple:./ol7.5.qcow2
 #format=qcow2
 #name=ol7.5-base
 #osinfo=oraclelinux7.5
